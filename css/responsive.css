@@ -1,6 +1,11 @@
 
 @media only screen and (max-width:1280px) {
 
+#slikakafe {
+   
+	width: 630px;
+	}	
+	
    input#inp {
     color: #000!important;
     width: 300px!important;
