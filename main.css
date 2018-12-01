@@ -453,7 +453,8 @@ div#btn a {
 	background: #0000;
 	color:#fff;
 	text-decoration:none;
-	text-align:center;	
+	text-align:center;
+	padding:3px;
 }
 
 div#btn a:hover {
