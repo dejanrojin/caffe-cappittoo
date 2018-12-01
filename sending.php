@@ -18,6 +18,6 @@ Massage: ".$massage."
 ";
 
 mail ("dejan.rojin@yahoo.com", "Nova poruka sa sajta Rock Music", $email_massage);
-header("Location: contact.php");
+header("Location: contact.html");
 
 ?>
