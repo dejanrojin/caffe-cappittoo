@@ -247,6 +247,10 @@ height: 280px!important;
 
 @media only screen and (max-width:603px) {
 
+#slikakafe {
+  
+    margin-left: 195px!important;
+	}
 textarea#txtarea {
     color: #000!important;
 	width: 430px!important;}	
