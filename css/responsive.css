@@ -4,13 +4,13 @@
 
 span {
  
-    font-size: 20px;
+    font-size: 20px!important;
 }	
 	
 	
 #slikakafe {
    
-	width: 670px;
+	width: 670px !important;
 	}	
 	
    input#inp {
@@ -32,13 +32,13 @@ textarea#txtarea {
 
 span {
  
-    font-size: 20px;
+    font-size: 20px!important;
 }	
 	
 	
 #slikakafe {
    
-	width: 670px;
+	width: 670px!important;
 	}	
 	
    input#inp {
@@ -63,13 +63,13 @@ textarea#txtarea {
 
 span {
  
-    font-size: 17px;
+    font-size: 17px!important;
 }	
 	
 	
 #slikakafe {
    
-	width: 630px;
+	width: 630px!important;
 	}	
 	
    input#inp {
