@@ -2,9 +2,9 @@
 
 <?php
 
-$name = $_POST ["Name"];
+$name = $_POST ["fullname"];
 $email = $_POST ["email"];
-$massage = $_POST ["massage"];
+$massage = $_POST ["message"];
 
 echo $name;
 echo $email;
