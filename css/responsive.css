@@ -1,4 +1,5 @@
 
+
 @media only screen and (max-width:1366px) {
 
 span {
@@ -235,6 +236,41 @@ height: 280px!important;
 
 
 }
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:603px) {
+
+textarea#txtarea {
+    color: #000!important;
+	width: 430px!important;}	
+	
+input#inp {
+    color: #000!important;
+    width: 430px!important;
+}
+	
+	p#followusinst {
+	display:none;
+
+}
+
+p#followus {
+	display:none;
+
+}
+}
+
+
+
+
+
 
 @media only screen and (max-width:414px) {
 
