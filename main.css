@@ -448,7 +448,10 @@ div#btn a {transition:200ms ease-in;
     border: 2px solid;
      margin-top: 20px;
     font-size: 30px;
-	font-family: -webkit-pictograph;background: #0000
+	font-family: -webkit-pictograph;background: #0000;
+	color:#fff;
+	text-decoration:none;
+		
 }
 
 div#btn a:hover {
