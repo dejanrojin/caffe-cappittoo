@@ -355,20 +355,20 @@ div#menu6 {
 	div#menu {
     float: none;
   
-  width: 320px !important;
+  width: 320px!important;
    
  text-align: center;
-margin-right: 30px !important;
+margin-right: 30px!important;
 	}
 
 		
 	div#menu3 {
     float: none;
   
-  width: 320px !important;
+  width: 320px!important;
    
  text-align: center;
-margin-right: 30px !important;
+margin-right: 30px!important;
 	}
 
 	
@@ -377,10 +377,10 @@ margin-right: 30px !important;
 	div#menu4{
     float: none;
   
-  width: 320px !important;
+  width: 320px!important;
    
  text-align: center;
-margin-right: 30px !important;
+margin-right: 30px!important;
 	}	
 	
 	
@@ -390,10 +390,10 @@ margin-right: 30px !important;
 	div#menu5 {
     float: none;
   
-  width: 320px !important;
+  width: 320px!important;
    
  text-align: center;
-margin-right: 30px !important;
+margin-right: 30px!important;
 	}	
 	
 	
@@ -402,10 +402,10 @@ margin-right: 30px !important;
 	div#menu6 {
     float: none;
   
-  width: 320px !important;
+  width: 320px!important;
    
  text-align: center;
-margin-right: 30px !important;
+margin-right: 30px!important;
 	}
 	
 	
@@ -416,22 +416,25 @@ margin-right: 30px !important;
 	div#menu7 {
     float: none;
   
-  width: 320px !important;
+  width: 320px!important;
    
  text-align: center;
 margin-right: 30px !important;
 	}	
 
-	
-	
 input#inp {
-margin-top: 10px;
-height:40px!important  ;}
+    margin-top: 10px;
+    height: 40px!important;
+    width: 270px!important;
+}	
+	
+
 
 
 textarea#txtarea {
-  margin-top: 10px; 
-height: 140px;
+ margin-top: 10px;
+    height: 40px!important;
+    width: 270px!important;
 
 }
 
