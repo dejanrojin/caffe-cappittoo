@@ -442,14 +442,14 @@ img#menucapucino6 {opacity:0;
     transition: 400ms ease-in;
 }
 
+
 div#btn a {transition:200ms ease-in;
-    margin-top: 20px;
-    background: #0000;
+    color: #fff;
+    border: 2px solid;
+     margin-top: 20px;
     font-size: 30px;
-    font-family: -webkit-pictograph;
+	font-family: -webkit-pictograph;background: #0000
 }
-
-
 
 div#btn a:hover {
     transform:scale(1.1) rotate(10deg);
