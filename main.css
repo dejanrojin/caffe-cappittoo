@@ -442,7 +442,7 @@ img#menucapucino6 {opacity:0;
     transition: 400ms ease-in;
 }
 
-button#btn {transition:200ms ease-in;
+div#btn {transition:200ms ease-in;
     margin-top: 20px;
     background: #0000;
     font-size: 30px;
@@ -451,7 +451,7 @@ button#btn {transition:200ms ease-in;
 
 
 
-button#btn:hover {
+div#btn:hover {
     transform:scale(1.1) rotate(10deg);
 }
 
