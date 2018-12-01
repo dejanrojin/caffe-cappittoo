@@ -443,15 +443,17 @@ img#menucapucino6 {opacity:0;
 }
 
 
-div#btn a {transition:200ms ease-in;
+div#btn a {
+	transition:200ms ease-in;
     color: #fff;
     border: 2px solid;
      margin-top: 20px;
     font-size: 30px;
-	font-family: -webkit-pictograph;background: #0000;
+	font-family: -webkit-pictograph;
+	background: #0000;
 	color:#fff;
 	text-decoration:none;
-		
+	text-align:center;	
 }
 
 div#btn a:hover {
