@@ -1,4 +1,32 @@
 
+@media only screen and (max-width:1366px) {
+
+span {
+ 
+    font-size: 20px;
+}	
+	
+	
+#slikakafe {
+   
+	width: 670px;
+	}	
+	
+   input#inp {
+    color: #000!important;
+    width: 350px!important;
+}
+
+
+textarea#txtarea {
+    color: #000!important;
+    width: 350px!important;
+}
+
+}
+
+
+
 @media only screen and (max-width:1360px) {
 
 span {
