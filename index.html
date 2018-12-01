@@ -421,6 +421,23 @@ $("#utisak").click(function() {
 
 });
 
+    
+    
+    
+    
+    
+    
+function validateForm() {
+    var x = document.forms["formi"]["fullname"]["email"].value;
+    if (x == "") {
+        alert("Name must be filled out");
+        return false;
+    }
+}    
+    
+    
+    
+    
 </script>
 
 <script>
@@ -804,7 +821,7 @@ Ime:<input id="inp"  name="fullname">
 Prezime: <input id="inp" name="email">
 
 Utisci:<textarea id="txtarea" name="message"></textarea>
-<div id="btn"><a href="contact.html">Send</a></div>
+<div id="btn"  onclick="return validateForm()"><a href="contact.html">Send</a></div>
 
 <img id="sentmail" width="60px" height="60px" src="imgs/sent.png"/>
 </form>
