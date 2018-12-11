@@ -1,5 +1,7 @@
 div#broj a {
-	color: #fffimportant;
+	color: #fff!important;
+	font-size:23px;
+	text-decoration:none;
 }
 
 .container {
