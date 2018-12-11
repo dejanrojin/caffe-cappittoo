@@ -6,7 +6,7 @@ input:-webkit-autofill,
 input:-webkit-autofill:hover, 
 input:-webkit-autofill:focus, 
 input:-webkit-autofill:active  {
-    -webkit-box-shadow: 0 0 0 30px white inset;
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
 }	
 	
 	
@@ -59,7 +59,7 @@ textarea#txtarea {
 input:-webkit-autofill:hover, 
 input:-webkit-autofill:focus, 
 input:-webkit-autofill:active  {
-    -webkit-box-shadow: 0 0 0 30px white inset;
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
 }
 	
 span {
@@ -105,7 +105,7 @@ input:-webkit-autofill,
 input:-webkit-autofill:hover, 
 input:-webkit-autofill:focus, 
 input:-webkit-autofill:active  {
-    -webkit-box-shadow: 0 0 0 30px white inset;
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
 }	
 	
 textarea:focus, input:focus{
@@ -150,7 +150,7 @@ input:-webkit-autofill,
 input:-webkit-autofill:hover, 
 input:-webkit-autofill:focus, 
 input:-webkit-autofill:active  {
-    -webkit-box-shadow: 0 0 0 30px white inset;
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
 }	
 	
     input#inp {
@@ -325,7 +325,7 @@ input:-webkit-autofill,
 input:-webkit-autofill:hover, 
 input:-webkit-autofill:focus, 
 input:-webkit-autofill:active  {
-    -webkit-box-shadow: 0 0 0 30px white inset;
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
 }	
 	
 textarea:focus, input:focus{
@@ -448,7 +448,7 @@ input:-webkit-autofill,
 input:-webkit-autofill:hover, 
 input:-webkit-autofill:focus, 
 input:-webkit-autofill:active  {
-    -webkit-box-shadow: 0 0 0 30px white inset;
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
 }	
 	
 textarea:focus, input:focus{
