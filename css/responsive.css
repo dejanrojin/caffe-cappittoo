@@ -16,6 +16,11 @@ span {
    input#inp {
     color: #000!important;
     width: 350px!important;
+	    background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
 }
 
 
@@ -44,6 +49,11 @@ span {
    input#inp {
     color: #000!important;
     width: 350px!important;
+	    background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
 }
 
 
@@ -75,6 +85,11 @@ span {
    input#inp {
     color: #000!important;
     width: 300px!important;
+	    background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
 }
 
 
@@ -90,6 +105,11 @@ textarea#txtarea {
     input#inp {
     color: #000!important;
     width: 160px!important;
+	     background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
 }
 
 
@@ -258,6 +278,11 @@ textarea#txtarea {
 input#inp {
     color: #000!important;
     width: 430px!important;
+	 background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
 }
 	
 	p#followusinst {
@@ -433,6 +458,11 @@ input#inp {
     margin-top: 10px;
     height: 40px!important;
     width: 260px!important;
+	 background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
 }	
 	
 
