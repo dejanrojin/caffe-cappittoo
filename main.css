@@ -462,9 +462,13 @@ div#btn a:hover {
 }
 
 
-
 input#inp {color: #000;
     width: 250px;
+ background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
 }
 
 textarea#txtarea {color: #000;
