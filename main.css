@@ -6,6 +6,14 @@
     background-size: 100% 100% !important;
 }
 
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}	
+
 textarea:focus, input:focus{
     outline: none;
 }
@@ -466,7 +474,9 @@ div#btn a:hover {
 }
 
 
-input#inp {color: #000;
+input#inp {
+	   font-weight: 400;
+    color: #fff!important;
     width: 250px;
  background: #0000;
     border-bottom: 2px solid #fff;
@@ -475,7 +485,9 @@ input#inp {color: #000;
     border-right: 2px solid #fff0;
 }
 
-textarea#txtarea {color: #000;
+textarea#txtarea {
+	   font-weight: 400;
+    color: #fff!important;
     width: 250px;
 }
 
