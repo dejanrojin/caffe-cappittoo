@@ -2,6 +2,13 @@
 
 @media only screen and (max-width:1366px) {
 
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}	
+	
 	
 textarea:focus, input:focus{
     outline: none;
@@ -47,6 +54,14 @@ textarea#txtarea {
 
 @media only screen and (max-width:1360px) {
 
+	
+	input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}
+	
 span {
  
     font-size: 20px!important;
@@ -86,6 +101,13 @@ textarea#txtarea {
 @media only screen and (max-width:1280px) {
 
 	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}	
+	
 textarea:focus, input:focus{
     outline: none;
 }
@@ -122,6 +144,15 @@ textarea#txtarea {
 
 
 @media only screen and (max-width:768px) {
+	
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}	
+	
     input#inp {
     font-weight: 400;
     color: #fff!important;
@@ -289,6 +320,14 @@ height: 280px!important;
 
 @media only screen and (max-width:603px) {
 
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}	
+	
 textarea:focus, input:focus{
     outline: none;
 }	
@@ -404,6 +443,14 @@ div#menu6 {
 
 @media only screen and (max-width:414px) {
 
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}	
+	
 textarea:focus, input:focus{
     outline: none;
 }	
