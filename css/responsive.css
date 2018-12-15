@@ -143,6 +143,28 @@ textarea#txtarea {
 }
 
 
+
+@media only screen and (max-width:1024px) {
+#slikakafe {
+    width: 530px!important;
+}
+
+input#inp {
+    font-weight: 400;
+    color: #fff!important;
+	width: 255px!important;
+	}	
+	
+	textarea#txtarea{
+	width: 255px!important;
+		
+	}
+	
+	
+}
+
+
+
 @media only screen and (max-width:768px) {
 	
 	
