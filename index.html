@@ -477,7 +477,7 @@ $(".email").val().hide();
 
 
 
-$("#txtarea").focusout(function(){
+$(".message").focusout(function(){
 
 check_msg();
 
@@ -485,16 +485,16 @@ check_msg();
 
 function check_msg(){
 
-var msg_val=$("#txtarea").val().length;
+var msg_val=$(".message").val().length;
 
 if(msg_val < 1){
 
-$("#txtarea").val("Obavezno polje").css({"color":"white",
+$(".message").val("Obavezno polje").css({"color":"white",
 "font-size":"25px"
 });
 }else{
 
-$("#txtarea").val().hide();
+$(".message").val().hide();
 
 }
 }   
@@ -898,7 +898,7 @@ setTimeout('vreme()',300);
 Ime:<input id="inp" class="ime" name="fullname">
 Email: <input id="inp" class="email" name="email">
 
-Utisci:<textarea id="txtarea" name="message"></textarea>
+Utisci:<textarea id="txtarea" class="message" name="message"></textarea>
 <div id="btn"><a href="contact.html">Send</a></div>
 
 <img id="sentmail" width="60px" height="60px" src="imgs/sent.png"/>
