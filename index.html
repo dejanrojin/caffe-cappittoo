@@ -416,6 +416,90 @@ $("#utisak").click(function() {
 
 
 
+    
+    
+    
+ $(".ime").focusout(function(){
+
+check_user();
+
+});
+
+function check_user(){
+
+var ime_val=$(".ime").val().length;
+
+if(ime_val < 1){
+
+$(".ime").val("Obavezno polje").css({"color":"white",
+"font-size":"25px"
+});
+}else{
+
+$(".ime").val().hide();
+
+}}
+
+
+
+
+
+
+
+
+
+$(".email").focusout(function(){
+
+check_email();
+
+});
+
+function check_email(){
+
+var email_val=$(".email").val().length;
+
+if(email_val < 1){
+
+$(".email").val("Obavezno polje").css({"color":"red",
+"font-size":"25px"
+});
+}else{
+
+$(".email").val().hide();
+
+}
+
+
+
+}
+
+
+
+
+
+$(".message").focusout(function(){
+
+check_msg();
+
+});
+
+function check_msg(){
+
+var msg_val=$(".message").val().length;
+
+if(msg_val < 1){
+
+$(".message").val("Obavezno polje").css({"color":"white",
+"font-size":"25px"
+});
+}else{
+
+$(".message").val().hide();
+
+}
+}   
+    
+    
 
 
 
