@@ -1146,6 +1146,10 @@ margin-left: 30px;}
     transition: 300ms ease-in;
 }
 
+#scroll:hover {
+ cursor:pointer;
+}
+
 #scroll.pojaviti{
 	
 opacity:1;
