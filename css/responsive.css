@@ -1,0 +1,752 @@
+
+
+@media only screen and (max-width:1366px) {
+
+#scroll {
+    
+margin-left: 1240px!important;
+}
+	
+	
+img#share {
+   
+margin-left: 617px!important;}
+
+div#rowfollow {
+    
+margin-left: 570px!important;}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+	
+textarea:focus, input:focus{
+    outline: none;
+}
+span {
+ 
+    font-size: 20px!important;
+}	
+	
+	
+#slikakafe {
+   
+	width: 670px !important;
+	}	
+	
+   input#inp {
+     
+    width: 350px!important;
+	    background: #0000;
+	      font-weight: 400;
+    color: #fff!important;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+
+
+textarea#txtarea {
+     font-weight: 400;
+    color: #fff!important;
+    width: 350px!important;
+	    background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+
+}
+
+
+
+@media only screen and (max-width:1360px) {
+	
+#scroll {
+    
+margin-left: 1240px!important;
+}
+	
+	
+img#share {
+   
+margin-left: 617px!important;}
+
+
+div#rowfollow {
+    
+margin-left: 570px!important;}
+	
+	input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}
+	
+span {
+ 
+    font-size: 20px!important;
+}	
+	
+	
+#slikakafe {
+   
+	width: 670px!important;
+	}	
+	
+   input#inp {
+      font-weight: 400;
+    color: #fff!important;
+    width: 350px!important;
+	    background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+
+
+textarea#txtarea {
+     font-weight: 400;
+    color: #fff!important;
+    width: 350px!important;
+}
+
+}
+
+
+
+
+
+
+@media only screen and (max-width:1280px) {
+
+
+#radno a{
+  
+font-size: 18px!important;
+}
+
+#about a {
+  
+font-size: 18px!important;
+}
+
+
+div#rowfollow {
+   
+margin-left: 525px!important;}
+
+	img#share {
+   
+    margin-left: 570px!important;
+}
+	
+div#onama {
+ 
+    width: 462px!important;
+   
+}
+
+
+
+div#onama.skreni2 {
+   
+    width: 462px!important;
+
+}	
+	
+	
+	
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+textarea:focus, input:focus{
+    outline: none;
+}
+span {
+ 
+    font-size: 17px!important;
+}	
+	
+	
+#slikakafe {
+   
+	width: 630px!important;
+	}	
+	
+   input#inp {
+     font-weight: 400;
+    color: #fff!important;
+    width: 300px!important;
+	    background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+
+
+textarea#txtarea {
+     font-weight: 400;
+    color: #fff!important;
+    width: 300px!important;
+}
+
+}
+
+
+
+@media only screen and (max-width:1024px) {
+	
+	#scroll {
+   
+    margin-left: 900px!important;}
+	
+	div#rowfollow {
+    display: inline-flex;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 400px!important;
+	margin-bottom: 120px;
+}
+
+img#share {
+  
+margin-left: 446px!important;}
+	
+#slikakafe {
+    width: 530px!important;
+}
+
+input#inp {
+    font-weight: 400;
+    color: #fff!important;
+	width: 255px!important;
+	}	
+	
+	textarea#txtarea{
+	width: 255px!important;
+		
+	}
+	
+	
+}
+
+
+
+@media only screen and (max-width:768px) {
+
+	#scroll {
+   
+    margin-left: 660px!important;}	
+	
+div#frame {       
+width: 150px!important;
+		
+}
+
+
+div#frame1{ 
+ 
+    width: 150px!important;
+   
+}
+
+div#frame2 {    
+
+   width: 150px!important;
+
+}
+div#frame3 {    
+  
+   width: 150px!important;
+
+}
+	
+	
+	
+	
+	
+	
+	
+img#share {
+ 
+margin-left: 326px!important;}	
+	
+	
+div#rowfollow {
+    
+margin-left: 280px!important;	}
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+    input#inp {
+    font-weight: 400;
+    color: #fff!important;
+    width: 160px!important;
+	     background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+
+
+textarea#txtarea {
+     font-weight: 400;
+    color: #fff!important;
+    width: 160px!important;
+}
+
+
+div#broj {
+
+    font-size: 15px!important;
+}
+
+
+
+div#menu {    
+    width: 240px!important;
+   
+}
+
+
+div#menu3 {  
+    width: 229px!important;
+  
+	
+}
+
+
+div#menu4 {   
+    width: 219px!important;
+   
+}
+
+
+
+div#menu5 {
+   
+    width: 240px!important;
+  
+}
+
+
+
+div#menu6 {
+  
+    width: 229px!important;
+
+}
+
+
+div#menu7 {
+   
+    width: 219px!important;
+   
+}
+
+
+
+
+#slikakafe {
+    background-repeat: no-repeat!important;
+
+    width: 400px!important;
+    height: 200px!important;
+    background-size: 100% 100% !important;
+    background-position: -60px;
+  
+    margin-top: 80px!important;
+    margin-left: 20px!important;
+}
+
+
+
+img#menucapucino {
+    display: none!important;
+}
+img#menucapucino3 {
+    display: none!important;
+}
+img#menucapucino4 {
+    display: none!important;
+}
+img#milkshake {
+    display: none!important;
+}
+
+
+img#menucapucino5 {
+	
+	display:none;
+}
+
+img#menucapucino6 {
+   display:none;
+}
+
+p#cena {
+   
+font-size: 2em!important;
+}
+
+
+#slikakafe1 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+
+#slikakafe2 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+
+#slikakafe3 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+#slikakafe4 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+
+#slikakafe5 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+#slikakafe6 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:603px) {
+
+.col-sm-3 {
+    display: inline-grid;
+}
+img#share {
+   display:none;
+}
+
+
+div#rowfollow {
+    margin-left: 215px!important;
+}
+	#scroll {
+   
+    margin-left: 500px!important;}
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+textarea:focus, input:focus{
+    outline: none;
+}	
+	
+#slikakafe {
+  
+    margin-left: 195px!important;
+	}
+textarea#txtarea {
+     font-weight: 400;
+    color: #fff!important;
+	width: 430px!important;}	
+	
+input#inp {
+  font-weight: 400;
+    color: #fff!important;
+    width: 430px!important;
+	 background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+	
+	p#followusinst {
+	display:none;
+
+}
+
+p#followus {
+	display:none;
+
+}
+	
+div#menu {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+	div#menu3 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+
+	div#menu4 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+	
+	
+	div#menu5 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+	
+
+div#menu6 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}	
+	
+
+	
+	div#menu7 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+	
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:414px) {
+
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+textarea:focus, input:focus{
+    outline: none;
+}	
+	
+#slikakafe {
+    
+    margin-left: 40px !important;
+}	
+	
+	
+	div#menu {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}
+
+		
+	div#menu3 {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}
+
+	
+	
+	
+	div#menu4{
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}	
+	
+	
+
+	
+	
+	div#menu5 {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}	
+	
+	
+	
+	
+	div#menu6 {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}
+	
+	
+
+	
+	
+	
+	div#menu7 {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px !important;
+	}	
+
+input#inp {  font-weight: 400;
+    color: #fff!important;
+    margin-top: 10px;
+    height: 40px!important;
+    width: 260px!important;
+	 background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}	
+	
+
+
+
+textarea#txtarea {  font-weight: 400;
+    color: #fff!important;
+ margin-top: 10px;
+    height: 40px!important;
+    width: 260px!important;
+
+}
+
+p#followus {
+	
+	display:none!important;
+	
+}
+
+p#followusinst
+{
+	
+	display:none!important;
+	
+}
+
+span {
+    color: #fff;
+    font-size: 20px !important;
+}
+
+div#rowfollow {
+    text-align: center;
+    margin-top: 20px!important;
+    margin-bottom: 40px!important;
+}
+
+#slikakafe {
+
+    width: 500px!important;
+height: 300px!important;
+}
+
+
+p#cena {
+   
+font-size: 2em!important;
+}
+
+}
