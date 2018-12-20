@@ -1146,12 +1146,13 @@ margin-left: 30px;}
     transition: 300ms ease-in;
 }
 
-#scroll:hover {
- cursor:pointer;
-}
-
 #scroll.pojaviti{
  cursor:pointer;	
 opacity:1;
 }
-	
+
+
+#scroll.pojaviti:hover{
+ cursor:pointer;	
+
+}
