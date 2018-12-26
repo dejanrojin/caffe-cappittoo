@@ -128,7 +128,9 @@ textarea#txtarea {
 
 @media only screen and (max-width:1280px) {
 
-
+#scroll {
+   
+	margin-left: 1160px!important;}
 #radno a{
   
 font-size: 18px!important;
