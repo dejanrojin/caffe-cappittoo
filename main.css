@@ -865,7 +865,7 @@ div#frame {    filter: grayscale(0.7);
     background: url(imgs/Milan.jpg);
     width: 220px;
     height: 220px;
-    border: 2px solid #fff;
+    border: 5px solid #fff;
         margin: 13px;
 		  background-size: cover;
 	transition:500ms ease-in;
@@ -882,7 +882,7 @@ div#frame1{
     background: url(imgs/Vlada.jpg);
     width: 212.5px;
     height: 220px;
-    border: 2px solid #fff;
+    border: 5px solid #fff;
     margin: 13px;transition:500ms ease-in;
 }
 
@@ -895,7 +895,7 @@ background-size: 100% 100% !important;
     background: url(imgs/Marina.jpg);
    width: 212.5px;
     height: 220px;
-    border: 2px solid #fff;
+    border: 5px solid #fff;
     margin: 13px;transition:500ms ease-in;
 }
 div#frame3 {    
@@ -907,7 +907,7 @@ background-size: cover;
     background: url(imgs/dragisa.jpg);
    width: 212.5px;
     height: 220px;
-    border: 2px solid #fff;
+    border: 5px solid #fff;
     margin: 13px;
 	transition:500ms ease-in;
 }
