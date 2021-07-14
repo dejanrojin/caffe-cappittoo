@@ -251,7 +251,18 @@ input#inp {
 
 @media only screen and (max-width:768px) {
 
-	#scroll {
+#btn {
+    margin-top: 20px;
+}
+
+#btn a {
+font-size: 21px !important;}
+
+span {
+    font-size: 15px !important;
+}
+
+#scroll {
    
     margin-left: 660px!important;}	
 	
@@ -467,6 +478,45 @@ height: 280px!important;
 
 @media only screen and (max-width:603px) {
 
+h2#pokrece {
+    margin-top: -8px!important;;
+font-size: 15px!important;}
+
+div#frame {
+    width: 240px !important;
+}
+
+div#frame1 {
+    width: 240px !important;
+}
+
+div#frame2 {
+    width: 240px !important;
+}
+
+div#frame3 {
+    width: 240px !important;
+}
+
+
+
+span {
+    font-size: 11px !important;
+}
+
+#kontakt a {
+
+font-size: 12px!important;}
+
+#radno a {
+
+font-size: 12px!important;}
+
+#about a {
+
+font-size: 12px!important;}
+
+
 .col-sm-3 {
     display: inline-grid;
 }
@@ -595,11 +645,104 @@ div#menu6 {
 }
 
 
+@media only screen and (max-width:480px) {
+
+input#inp {
+
+width: 335px !important;}
+
+textarea#txtarea {
+
+width: 335px !important;}
 
 
+div#rowfollow {
+    margin-left: 162px !important;
+}
 
+div#onama.skreni2 {
+margin-left: -90px!important;}
 
+#slikakafe {
+    margin-left: 135px !important;
+}
 
+#caffetitle {
+
+font-size: 50px!important;}
+
+#naslovnaopen {
+    margin-top: 50px!important;
+}
+
+div#menu {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu:hover {
+    transition: 200ms ease-in;
+transform: scale(1.03)!important;}
+
+	
+div#menu3 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu3:hover {
+    transition: 200ms ease-in;
+    transform: scale(1.03)!important;	
+}
+	
+div#menu4 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu4:hover {
+    transition: 200ms ease-in;
+    transform: scale(1.03)!important;	
+}	
+	
+	
+	
+	
+div#menu5 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu5:hover {
+    transition: 200ms ease-in;
+transform: scale(1.03)!important;}
+
+	
+div#menu6 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu6:hover {
+    transition: 200ms ease-in;
+    transform: scale(1.03)!important;	
+}
+	
+div#menu7 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu7:hover {
+    transition: 200ms ease-in;
+    transform: scale(1.03)!important;	
+}	
+	
+	
+	
+	
+	
+}
 
 
 @media only screen and (max-width:414px) {
@@ -751,4 +894,63 @@ p#cena {
 font-size: 2em!important;
 }
 
+}
+
+
+
+@media only screen and (max-width:375px) {
+
+#caffetitle {
+    font-size: 34px!important;
+}
+
+span {
+    color: #fff;
+    font-size: 10.4px !important;
+}
+
+div#menu {
+       float: left!important;
+
+    width: 348px!important;
+}	
+div#menu3 {
+    float: left!important;
+   
+    width: 348px!important;
+}
+div#menu4 {
+    float: left!important;
+
+width: 348px!important;}
+
+div#menu5 {
+
+width: 348px!important;}
+
+div#menu6 {
+
+width: 348px!important;}
+
+
+div#menu7 {
+
+width: 348px!important;}
+
+	
+input#inp {
+width: 230px!important;	}
+	
+textarea#txtarea {
+
+width: 230px !important;}	
+	
+div#rowfollow {
+    margin-left: 110px !important;
+}
+div#onama.skreni2 {
+    margin-left: -144px!important;
+}
+	
+	
 }
