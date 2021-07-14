@@ -901,6 +901,10 @@ font-size: 2em!important;
 @media only screen and (max-width:375px) {
 
 
+p#cena {
+  
+font-family: serif;}
+
 #demo {
 	    float: none;
 }
@@ -910,7 +914,7 @@ p#textfooter {
 	font-family: -webkit-pictograph;
 }
 #caffetitle {
-	font-family: -webkit-pictograph;
+	font-family: serif;
     font-size: 34px!important;
 }
 
