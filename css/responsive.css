@@ -906,7 +906,7 @@ p#cena {
 font-family: serif;}
 
 #demo {
-	    display: none;
+	    display: none!important;
 }
 
 p#textfooter {
