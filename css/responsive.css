@@ -901,6 +901,9 @@ font-size: 2em!important;
 @media only screen and (max-width:375px) {
 
 
+#demo {
+    display: none!important;
+
 p#textfooter {
 	
 	font-family: -webkit-pictograph;
