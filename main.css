@@ -423,9 +423,16 @@ opacity:0;
     padding: 10px;
     font-size: 23px;
     border: 23px solid #fff;
-    border-image: url(imgs/frame.png) 30 round;
+    border-image: url(imgs/frame.png) 39 round;
     border-color: transparent;
 }
+
+
+
+
+input#inp {
+ 
+font-size: 15px !important;}
 
 
 img#menucapucino {

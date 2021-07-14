@@ -455,17 +455,13 @@ var ime_val=$("#inp").val().length;
 if(ime_val < 1){
 
 $("#inp").val("Obavezno polje").css({"color":"white",
-"font-size":"25px"
+"font-size":"15px"
 });
 }else{
 
-$("#inp").val();
+$("#inp").val("");
 
 }}
-
-
-
-
 
 
 
@@ -492,7 +488,11 @@ function check_email() {
 	}
 
 
+$("input[name=email]").focusin(function(){
 
+$("input[name=email]").val("");
+
+});
 
 
 
