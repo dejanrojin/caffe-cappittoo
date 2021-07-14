@@ -900,7 +900,10 @@ font-size: 2em!important;
 
 @media only screen and (max-width:375px) {
 
+
+
 #caffetitle {
+	font-family: -webkit-pictograph;
     font-size: 34px!important;
 }
 
