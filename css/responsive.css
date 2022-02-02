@@ -1,0 +1,1202 @@
+
+
+@media only screen and (max-width:1920px) {
+div#top {
+    height: 967px;
+}
+
+
+#slikakafe {
+    width: 1000px !important;
+    height: 600px!important;
+    margin-left: -100px!important;
+}
+
+div#menu {
+    padding: 17px!important;
+    width: 518px!important;}
+
+    div#menu3 {
+        padding: 17px!important;
+        width: 518px!important;}
+
+        div#menu4 {
+            padding: 17px!important;
+            width: 518px!important;}  
+
+
+            div#menu5 {
+                padding: 17px!important;
+                width: 518px!important;}
+            
+                div#menu6 {
+                    padding: 17px!important;
+                    width: 518px!important;}
+            
+                    div#menu7 {
+                        padding: 17px!important;
+                        width: 518px!important;}  
+
+
+                        div#scroll {
+                            margin-left: 1784px;
+                            margin-top: 880px;
+                        }
+
+                        div#onamadiv {
+                         
+                            height: 677px!important;}
+                        div#rowfollow {
+                        
+                                margin-left: 844px!important;}
+
+
+                                img#share {
+                           
+                                    display: none!important;} 
+
+                                    div#onamaslika {
+                                        padding: 0px!important;}
+
+                                        div#sociallink {
+                                          
+                                            padding: 107px!important;
+                                            height: 900px;
+                                        }
+                                        form#formi {
+                                            display: flex;
+                                            flex-direction: column;
+                                        }
+
+                                        input {
+                                     
+                                            width: 507px!important;
+                                          
+                                            padding: 9px!important;}
+                                            textarea {
+                                                font-weight: 400;
+                                                color: #fff!important;
+                                                width: 507px!important;
+                                                height: 250px!important;}  
+                                                
+                                                div#btn {
+                                                    padding: 20px;}
+
+                                                    div#btn a {
+                                                       
+                                                        padding: 11px;}
+
+                                                        p#nazad {
+                                                      
+                                                            font-size: 22px;
+                                                        }
+
+
+                                                        p#nazad1 {
+                                                      
+                                                            font-size: 22px;
+                                                        }
+
+                                                        p#nazad2 {
+                                                      
+                                                            font-size: 22px;
+                                                        } 
+
+                                                        p#nazad3 {
+                                                      
+                                                            font-size: 22px;
+                                                        }
+                                                        p#nazad4 {
+                                                         
+                                                            font-size: 22px;
+                                                        }
+                                                        p#nazadmojtim{
+                                                         
+                                                            font-size: 22px;
+                                                        }
+
+                                                        div#naslovna span {
+                                                            font-size: 18px;
+                                                        }
+                                                         
+                            
+
+
+}
+
+
+@media only screen and (max-width:1366px) {
+
+
+    div#menu {    float: right;
+        padding: 10px!important;
+        width: 260px!important;}
+
+
+        div#menu1 {    float: right;
+            padding: 10px!important;
+            width: 260px!important;} 
+            
+            div#menu2 {    float: right;
+                padding: 10px!important;
+                width: 260px!important;}    
+        div#menu3 {    float: right;
+                    padding: 10px!important;
+                    width: 260px!important;}
+
+                    div#menu4 {    float: right;
+                        padding: 10px!important;
+                        width: 260px!important;}
+
+
+                        div#menu5 {    float: right;
+                            padding: 10px!important;
+                            width: 260px!important;}
+
+
+                            div#menu6 {    float: right;
+                                padding: 10px!important;
+                                width: 260px!important;}
+
+
+                                div#menu7 {    float: right;
+                                    padding: 10px!important;
+                                    width: 260px!important;}  
+
+#scroll {
+    
+margin-left: 1240px!important;
+}
+	
+	
+img#share {
+   
+margin-left: 617px!important;}
+
+div#rowfollow {
+    
+margin-left: 570px!important;}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+	
+textarea:focus, input:focus{
+    outline: none;
+}
+span {
+ 
+    font-size: 20px!important;
+}	
+	
+#slikakafe {
+    width: 629px!important;
+height:400px!important;
+margin-left: 5px !important;
+}
+	
+   input#inp {
+     
+    width: 350px!important;
+
+}
+
+
+textarea#txtarea {
+
+    width: 350px!important;
+
+}
+
+
+div#sociallink {
+
+        padding: 57px!important;
+        height: 600px!important;
+
+}
+form#formi {
+    height: 400px!important;}
+
+
+
+    p#nazad {
+                                                      
+        font-size: 15px;
+    }
+
+
+    p#nazad1 {
+  
+        font-size: 15px;
+    }
+
+    p#nazad2 {
+  
+        font-size: 15px;
+    } 
+
+    p#nazad3 {
+  
+        font-size: 15px;
+    }
+    p#nazad4 {
+     
+        font-size: 15px;
+    }
+    p#nazadmojtim{
+     
+        font-size: 15px;
+    }
+
+
+}
+
+
+
+@media only screen and (max-width:1360px) {
+
+    form#formi {
+        height: 400px!important;} 
+
+#scroll {
+    
+margin-left: 1240px!important;
+}
+	
+	
+img#share {
+   
+margin-left: 617px!important;}
+
+
+div#rowfollow {
+    
+margin-left: 570px!important;}
+	
+	input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}
+	
+span {
+ 
+    font-size: 20px!important;
+}	
+	
+	
+#slikakafe {
+    width: 629px!important;
+height:400px!important;
+margin-left: 5px !important;
+}
+   input#inp {
+      font-weight: 400;
+    color: #fff!important;
+    width: 350px!important;
+	    background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+
+
+textarea#txtarea {
+     font-weight: 400;
+    color: #fff!important;
+    width: 350px!important;
+}
+
+}
+
+
+
+
+
+
+@media only screen and (max-width:1280px) {
+
+#scroll {
+   
+	margin-left: 1160px!important;}
+
+    div#scroll {
+        margin-left: 1784px;
+        margin-top: 822px;
+    }
+
+#radno a{
+  
+font-size: 18px!important;
+}
+
+#about a {
+  
+font-size: 18px!important;
+}
+
+
+div#rowfollow {
+   
+margin-left: 525px!important;}
+
+	img#share {
+   
+    margin-left: 570px!important;
+}
+	
+div#onama {
+ 
+    width: 462px!important;
+   
+}
+
+div#onamadiv {
+    height: 700px!important;
+}
+
+
+
+div#onama.skreni2 {
+   
+    width: 462px!important;
+
+}	
+	
+	
+	
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+textarea:focus, input:focus{
+    outline: none;
+}
+span {
+ 
+    font-size: 17px!important;
+}	
+	
+	
+#slikakafe {
+   
+	width: 630px!important;
+	}	
+	
+   input#inp {
+     font-weight: 400;
+    color: #fff!important;
+    width: 300px!important;
+	    background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+
+
+textarea#txtarea {
+     font-weight: 400;
+    color: #fff!important;
+    width: 300px!important;
+}
+
+}
+
+
+
+@media only screen and (max-width:1024px) {
+	
+	#scroll {
+   
+    margin-left: 900px!important;}
+	
+	div#rowfollow {
+    display: inline-flex;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 400px!important;
+	margin-bottom: 120px;
+}
+
+img#share {
+  
+margin-left: 446px!important;}
+	
+#slikakafe {
+    width: 530px!important;
+}
+
+input#inp {
+    font-weight: 400;
+    color: #fff!important;
+	width: 231px!important;
+	}	
+	
+	textarea#txtarea{
+	width: 231px!important;
+		
+	}
+	
+	
+}
+
+
+
+@media only screen and (max-width:768px) {
+
+#btn {
+    margin-top: 20px;
+}
+
+#btn a {
+font-size: 21px !important;}
+
+span {
+    font-size: 15px !important;
+}
+
+#scroll {
+   
+    margin-left: 660px!important;}	
+	
+div#frame {       
+width: 150px!important;
+		
+}
+
+
+div#frame1{ 
+ 
+    width: 150px!important;
+   
+}
+
+div#frame2 {    
+
+   width: 150px!important;
+
+}
+div#frame3 {    
+  
+   width: 150px!important;
+
+}
+	
+	
+	
+	
+	
+	
+	
+img#share {
+ 
+margin-left: 326px!important;}	
+	
+	
+div#rowfollow {
+    
+margin-left: 280px!important;	}
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+    input#inp {
+    font-weight: 400;
+    color: #fff!important;
+    width: 160px!important;
+	     background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+
+
+textarea#txtarea {
+     font-weight: 400;
+    color: #fff!important;
+    width: 160px!important;
+}
+
+
+div#broj {
+
+    font-size: 15px!important;
+}
+
+
+
+div#menu {    
+    width: 240px!important;
+   
+}
+
+
+div#menu3 {  
+    width: 229px!important;
+  
+	
+}
+
+
+div#menu4 {   
+    width: 219px!important;
+   
+}
+
+
+
+div#menu5 {
+   
+    width: 240px!important;
+  
+}
+
+
+
+div#menu6 {
+  
+    width: 229px!important;
+
+}
+
+
+div#menu7 {
+   
+    width: 219px!important;
+   
+}
+
+
+
+
+#slikakafe {
+    background-repeat: no-repeat!important;
+
+    width: 400px!important;
+    height: 200px!important;
+    background-size: 100% 100% !important;
+    background-position: -60px;
+  
+    margin-top: 80px!important;
+    margin-left: 20px!important;
+}
+
+
+
+img#menucapucino {
+    display: none!important;
+}
+img#menucapucino3 {
+    display: none!important;
+}
+img#menucapucino4 {
+    display: none!important;
+}
+img#milkshake {
+    display: none!important;
+}
+
+
+img#menucapucino5 {
+	
+	display:none;
+}
+
+img#menucapucino6 {
+   display:none;
+}
+
+p#cena {
+   
+font-size: 2em!important;
+}
+
+
+#slikakafe1 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+
+#slikakafe2 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+
+#slikakafe3 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+#slikakafe4 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+
+#slikakafe5 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+#slikakafe6 {
+
+    width: 480px!important;
+height: 280px!important;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:603px) {
+
+h2#pokrece {
+    margin-top: -8px!important;;
+font-size: 15px!important;}
+
+div#frame {
+    width: 240px !important;
+}
+
+div#frame1 {
+    width: 240px !important;
+}
+
+div#frame2 {
+    width: 240px !important;
+}
+
+div#frame3 {
+    width: 240px !important;
+}
+
+
+
+span {
+    font-size: 11px !important;
+}
+
+#kontakt a {
+
+font-size: 12px!important;}
+
+#radno a {
+
+font-size: 12px!important;}
+
+#about a {
+
+font-size: 12px!important;}
+
+
+.col-sm-3 {
+    display: inline-grid;
+}
+img#share {
+   display:none;
+}
+
+
+div#rowfollow {
+    margin-left: 215px!important;
+}
+	#scroll {
+   
+    margin-left: 500px!important;}
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+textarea:focus, input:focus{
+    outline: none;
+}	
+	
+#slikakafe {
+  
+    margin-left: 195px!important;
+	}
+textarea#txtarea {
+     font-weight: 400;
+    color: #fff!important;
+	width: 430px!important;}	
+	
+input#inp {
+  font-weight: 400;
+    color: #fff!important;
+    width: 430px!important;
+	 background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}
+	
+	p#followusinst {
+	display:none;
+
+}
+
+p#followus {
+	display:none;
+
+}
+	
+div#menu {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+	div#menu3 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+
+	div#menu4 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+	
+	
+	div#menu5 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+	
+
+div#menu6 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}	
+	
+
+	
+	div#menu7 {
+    float: none;
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+    border-radius: 96px 72px 48px 24px/0px 0px 0px 99px;
+    width: 560px !important;
+    margin-top: 60px;
+    text-align: center;
+}
+	
+}
+
+
+@media only screen and (max-width:480px) {
+
+input#inp {
+
+width: 305px !important;}
+
+textarea#txtarea {
+
+width: 305px !important;}
+
+
+div#rowfollow {
+    margin-left: 162px !important;
+}
+
+div#onama.skreni2 {
+margin-left: -90px!important;}
+
+#slikakafe {
+    margin-left: 135px !important;
+}
+
+#caffetitle {
+    font-size: 34px!important;
+}
+
+#naslovnaopen {
+    margin-top: 50px!important;
+}
+
+div#menu {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu:hover {
+    transition: 200ms ease-in;
+transform: scale(1.03)!important;}
+
+	
+div#menu3 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu3:hover {
+    transition: 200ms ease-in;
+    transform: scale(1.03)!important;	
+}
+	
+div#menu4 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu4:hover {
+    transition: 200ms ease-in;
+    transform: scale(1.03)!important;	
+}	
+	
+	
+	
+	
+div#menu5 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu5:hover {
+    transition: 200ms ease-in;
+transform: scale(1.03)!important;}
+
+	
+div#menu6 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu6:hover {
+    transition: 200ms ease-in;
+    transform: scale(1.03)!important;	
+}
+	
+div#menu7 {
+   
+    border-radius: 0px!important;
+width: 450px !important;}
+
+div#menu7:hover {
+    transition: 200ms ease-in;
+    transform: scale(1.03)!important;	
+}	
+	
+	
+	
+	
+	
+}
+
+
+@media only screen and (max-width:414px) {
+
+    #caffetitle {
+        font-size: 34px!important;
+    }
+	
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px #0000 inset;
+}	
+	
+textarea:focus, input:focus{
+    outline: none;
+}	
+	
+#slikakafe {
+    
+    margin-left: 40px !important;
+}	
+	
+	
+	div#menu {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}
+
+		
+	div#menu3 {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}
+
+	
+	
+	
+	div#menu4{
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}	
+	
+	
+
+	
+	
+	div#menu5 {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}	
+	
+	
+	
+	
+	div#menu6 {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px!important;
+	}
+	
+	
+
+	
+	
+	
+	div#menu7 {
+    float: none;
+  
+  width: 320px!important;
+   
+ text-align: center;
+margin-right: 30px !important;
+	}	
+
+input#inp {  font-weight: 400;
+    color: #fff!important;
+    margin-top: 10px;
+    height: 40px!important;
+    width: 260px!important;
+	 background: #0000;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff0;
+    border-left: 2px solid #fff0;
+    border-right: 2px solid #fff0;
+}	
+	
+
+
+
+textarea#txtarea {  font-weight: 400;
+    color: #fff!important;
+ margin-top: 10px;
+    height: 40px!important;
+    width: 260px!important;
+
+}
+
+p#followus {
+	
+	display:none!important;
+	
+}
+
+p#followusinst
+{
+	
+	display:none!important;
+	
+}
+
+span {
+    color: #fff;
+    font-size: 20px !important;
+}
+
+div#rowfollow {
+    text-align: center;
+    margin-top: 20px!important;
+    margin-bottom: 40px!important;
+}
+
+#slikakafe {
+
+    width: 500px!important;
+height: 300px!important;
+}
+
+
+p#cena {
+   
+font-size: 2em!important;
+}
+
+}
+
+
+
+
+
+@media only screen and (max-width: 390px){
+input#inp {
+
+    width: 217px!important;}
+
+    textarea#txtarea {
+
+        width: 217px!important;}
+
+
+        div#rowfollow {
+            margin-left: 116px!important;
+        }   
+        
+        #caffetitle {
+            font-size: 34px!important;
+        }
+
+}
+
+
+
+@media only screen and (max-width:375px) {
+
+
+p#cena {
+      width: 35%!important;
+font-family: serif!important;}
+
+#demo {
+	    display: none!important;
+}
+
+p#textfooter {
+	
+	font-family: -webkit-pictograph;
+}
+#caffetitle {
+	font-family: serif;
+    font-size: 34px!important;
+}
+
+span {
+    color: #fff;
+    font-size: 10.4px !important;
+}
+
+div#menu {
+       float: left!important;
+
+    width: 348px!important;
+}	
+div#menu3 {
+    float: left!important;
+   
+    width: 348px!important;
+}
+div#menu4 {
+    float: left!important;
+
+width: 348px!important;}
+
+div#menu5 {
+
+width: 348px!important;}
+
+div#menu6 {
+
+width: 348px!important;}
+
+
+div#menu7 {
+
+width: 348px!important;}
+
+	
+input#inp {
+width: 230px!important;	}
+	
+textarea#txtarea {
+
+width: 230px !important;}	
+	
+div#rowfollow {
+    margin-left: 110px !important;
+}
+div#onama.skreni2 {
+    margin-left: -144px!important;
+}
+	
+	
+}
